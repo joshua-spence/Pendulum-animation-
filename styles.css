@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.pin{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.container{
+    transform: rotate(45deg);
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
